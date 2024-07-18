@@ -25,9 +25,9 @@ The repository is organized as follows:
 
 ## Progress Tracker
 
-| Day               | Problem 1 | Problem 2 | Problem 3 | Problem 4 | Problem 5 | Problem 6 |
-|-------------------|-----------|-----------|-----------|-----------|-----------|-----------|
-| [day-1](src/day1) |           |           |           |           |           |           |
+| Day               | Problem 1                                                                                  | Problem 2 | Problem 3 | Problem 4 | Problem 5 | Problem 6 |
+|-------------------|--------------------------------------------------------------------------------------------|-----------|-----------|-----------|-----------|-----------|
+| [day-1](src/day1) | [26. Remove Duplicates from Sorted Array](./src/day1/removeDuplicatesFromSortedArray.java) |           |           |           |           |           |
 
 ## How to Use This Repository
 
