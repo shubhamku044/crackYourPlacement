@@ -28,6 +28,7 @@ The repository is organized as follows:
 | Day               | Problem 1                                                                                  | Problem 2 | Problem 3 | Problem 4 | Problem 5 | Problem 6 |
 |-------------------|--------------------------------------------------------------------------------------------|-----------|-----------|-----------|-----------|-----------|
 | [day-1](src/day1) | [26. Remove Duplicates from Sorted Array](./src/day1/removeDuplicatesFromSortedArray.java) |           |           |           |           |           |
+| [day-2](src/day2) | [283. Move Zeroes](src/day2/moveZeroes.java)                                               |           |           |           |           |           |
 
 ## How to Use This Repository
 
