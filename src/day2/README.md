@@ -54,18 +54,54 @@ Output: 3
 
 **Example 3:**
 
-```
+``` 
 Input: nums = [3,3,3,3,3]
-Output: 3```
+Output: 3
+```
 
-**Constraints:** 
+**Constraints:**
 
 - `1 <= n <= 10^5`
 - `nums.length == n + 1`
 - `1 <= nums[i] <= n`
-- All the integers in `nums` appear only **once**  except for **precisely one integer**  which appears **two or more**  times.
+- All the integers in `nums` appear only **once**  except for **precisely one integer**  which appears **two or more**
+  times.
 
 <b>Follow up:</b>
 
 - How can we prove that at least one duplicate number must exist in `nums`?
 - Can you solve the problem in linear runtime complexity?
+
+# [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+
+### [Solution](./sortColors.java)
+
+Given an array `nums` with `n` objects colored red, white, or blue, sort
+them **<a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a> ** so that objects of the
+same color are adjacent, with the colors in the order red, white, and blue.
+
+We will use the integers `0`, `1`, and `2` to represent the color red, white, and blue, respectively.
+
+You must solve this problem without using the library's sort function.
+
+**Example 1:**
+
+```
+Input: nums = [2,0,2,1,1,0]
+Output: [0,0,1,1,2,2]
+```
+
+**Example 2:**
+
+```
+Input: nums = [2,0,1]
+Output: [0,1,2]
+```
+
+**Constraints:**
+
+- `n == nums.length`
+- `1 <= n <= 300`
+- `nums[i]` is either `0`, `1`, or `2`.
+
+**Follow up:** Could you come up with a one-pass algorithm using onlyconstant extra space?
