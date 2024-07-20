@@ -29,6 +29,7 @@ The repository is organized as follows:
 |-------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|-----------|
 | [day-1](src/day1) | [26. Remove Duplicates from Sorted Array](./src/day1/removeDuplicatesFromSortedArray.java) |                                                                     |                                             |                                                         |                                                         |           |
 | [day-2](src/day2) | [283. Move Zeroes](src/day2/moveZeroes.java)                                               | [287. Find the Duplicate Number](src/day2/findDuplicateNumber.java) | [75. Sort Colors](src/day2/sortColors.java) | [560. Subarray Sum Equals K](src/day2/subArraySum.java) | [20. Valid Parentheses](src/day2/validParentheses.java) |           |
+| [day-3](src/day3) | [28. Find the Index of the First Occurrence in a String](src/day3/firstOccurance.java)     |                                                                     |                                             |                                                         |                                                         |           |
 
 ## How to Use This Repository
 
